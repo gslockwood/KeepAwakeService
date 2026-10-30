@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KeepAwakeService": {
+      "commandName": "Project",
+      "commandLineArgs": "7:45:00 11:45"
+    }
+  }
+}
